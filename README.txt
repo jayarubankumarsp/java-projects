@@ -9,7 +9,7 @@ This Maven project is about a standlone Java application that generates random p
 
 Password generated will contain the combination of following characters from each group as given below,
 
-i. 	 Capital (Upper) Case Letters - A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z (26 - Letters)
+i.   Capital (Upper) Case Letters - A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z (26 - Letters)
 ii.  Lower Case Letters - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 iii. Numbers - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 
 iv.  Special Characters - !, , ", #, $, %, &, ', (, ), *, +, ,, -, ., /, :, ;, <, =, >, ?, @, [, \, ], ^, _, `, {, |, }, ~
