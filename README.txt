@@ -1,5 +1,5 @@
 ==========================================================
-			Random Password Generator Application
+	Random Password Generator Application
 ==========================================================
 
 Project Description:
